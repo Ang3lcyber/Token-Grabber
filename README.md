@@ -50,8 +50,7 @@ pip install pypiwin32 pycryptodome
 
 ### Usage
 1. **Clone the repository or download the script**.
-2. **Modify the webhook URL**: In the `main()` function, replace the placeholder `WEBHOOK_URL` with your actual Discord webhook URL.
-3. **Run the script**: The script will search for the local data files of various browsers and Discord clients to extract the stored tokens.
+2. **Run the script**: The script will search for the local data files of various browsers and Discord clients to extract the stored tokens.
 
 ```bash
 python main.py
